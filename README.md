@@ -16,4 +16,3 @@ It demonstrates different scheduling techniques with their **waiting time (WT)**
 
 ---
 
-## 📂 Project Structure

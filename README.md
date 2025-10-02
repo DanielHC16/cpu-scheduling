@@ -1,4 +1,4 @@
-#  CPU Scheduling Algorithms in Python  
+#  CPU Scheduling Algorithms in Python and C#
 
 This repository contains implementations of classic **CPU Scheduling Algorithms** for the **Operating Systems (OS)** course.  
 It demonstrates different scheduling techniques with their **waiting time (WT)** and **turnaround time (TT)** calculations.  

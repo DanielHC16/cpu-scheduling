@@ -1,0 +1,15 @@
+C:\Users\Hardy\OneDrive\Desktop\projects-v2\cpu-scheduling\basic-algorithms-csharp\bin\Debug\net8.0\basic-algorithms-csharp.exe
+C:\Users\Hardy\OneDrive\Desktop\projects-v2\cpu-scheduling\basic-algorithms-csharp\bin\Debug\net8.0\basic-algorithms-csharp.deps.json
+C:\Users\Hardy\OneDrive\Desktop\projects-v2\cpu-scheduling\basic-algorithms-csharp\bin\Debug\net8.0\basic-algorithms-csharp.runtimeconfig.json
+C:\Users\Hardy\OneDrive\Desktop\projects-v2\cpu-scheduling\basic-algorithms-csharp\bin\Debug\net8.0\basic-algorithms-csharp.dll
+C:\Users\Hardy\OneDrive\Desktop\projects-v2\cpu-scheduling\basic-algorithms-csharp\bin\Debug\net8.0\basic-algorithms-csharp.pdb
+C:\Users\Hardy\OneDrive\Desktop\projects-v2\cpu-scheduling\basic-algorithms-csharp\obj\Debug\net8.0\basic-algorithms-csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hardy\OneDrive\Desktop\projects-v2\cpu-scheduling\basic-algorithms-csharp\obj\Debug\net8.0\basic-algorithms-csharp.AssemblyInfoInputs.cache
+C:\Users\Hardy\OneDrive\Desktop\projects-v2\cpu-scheduling\basic-algorithms-csharp\obj\Debug\net8.0\basic-algorithms-csharp.AssemblyInfo.cs
+C:\Users\Hardy\OneDrive\Desktop\projects-v2\cpu-scheduling\basic-algorithms-csharp\obj\Debug\net8.0\basic-algorithms-csharp.csproj.CoreCompileInputs.cache
+C:\Users\Hardy\OneDrive\Desktop\projects-v2\cpu-scheduling\basic-algorithms-csharp\obj\Debug\net8.0\basic-algorithms-csharp.sourcelink.json
+C:\Users\Hardy\OneDrive\Desktop\projects-v2\cpu-scheduling\basic-algorithms-csharp\obj\Debug\net8.0\basic-algorithms-csharp.dll
+C:\Users\Hardy\OneDrive\Desktop\projects-v2\cpu-scheduling\basic-algorithms-csharp\obj\Debug\net8.0\refint\basic-algorithms-csharp.dll
+C:\Users\Hardy\OneDrive\Desktop\projects-v2\cpu-scheduling\basic-algorithms-csharp\obj\Debug\net8.0\basic-algorithms-csharp.pdb
+C:\Users\Hardy\OneDrive\Desktop\projects-v2\cpu-scheduling\basic-algorithms-csharp\obj\Debug\net8.0\basic-algorithms-csharp.genruntimeconfig.cache
+C:\Users\Hardy\OneDrive\Desktop\projects-v2\cpu-scheduling\basic-algorithms-csharp\obj\Debug\net8.0\ref\basic-algorithms-csharp.dll

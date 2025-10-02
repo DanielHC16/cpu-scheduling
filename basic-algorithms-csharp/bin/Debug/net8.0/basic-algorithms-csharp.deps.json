@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "basic-algorithms-csharp/1.0.0": {
+        "runtime": {
+          "basic-algorithms-csharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "basic-algorithms-csharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
